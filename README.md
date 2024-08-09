@@ -1,5 +1,7 @@
 # Instant Cryptocurrency Exchanges Without KYC
 
+![Instant Cryptocurrency Exchanges]([https://github.com/cryptojill/instant-cryptocurrency-exchanges/blob/main/exchanges.png?raw=true])
+
 Below are the most trusted anonymous cryptocurrency exchange services available that don't require KYC (Know Your Customer) for swapping between Bitcoin and other crypto coins / tokens. All have been verified as reputable and well established platforms.
 
 **Instant Cryptocurrency Exchanges - Top 4:**
