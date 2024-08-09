@@ -4,8 +4,8 @@ Below are the most trusted anonymous cryptocurrency exchange services available 
 
 **Instant Cryptocurrency Exchanges - Top 4:**
 
-- [SwapJazz](https://swapjazz.com) - Highest number of cryptocurrencies supported (over 1,000).
 - [FixedFloat](https://fixedfloat.com) - Fastest. Note: No longer supports Monero (XMR).
+- [SwapJazz](https://swapjazz.com) - Highest number of cryptocurrencies supported (over 1,000).
 - [SwapSwop](https://swapswop.io) - Lowest fees for fixed rate.
 - [Flyp.me](https://flyp.me) - Oldest exchange.
 
