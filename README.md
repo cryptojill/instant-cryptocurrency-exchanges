@@ -18,3 +18,5 @@ Below are the most trusted anonymous cryptocurrency exchange services available 
 - [StealthEx](https://stealthex.io)
 
 Whether you're looking to swap Bitcoin, Litecoin, Monero, Ethereum, Solana or any other major coin, most are available from any of the exchanges listed above. 
+
+Note that I am not connected to any of the platforms above and am therefore not responsible for the content on these sites.
