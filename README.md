@@ -11,7 +11,7 @@ Below are the most trusted anonymous cryptocurrency exchange services available 
 - [SwapSwop](https://swapswop.io) - Lowest fees for fixed rate.
 - [Flyp.me](https://flyp.me) - Oldest exchange.
 
-**Other Exchanges**
+**Other Crypto Exchanges:**
 
 - [Godex](https://godex.io)
 - [Exolix](https://exolix.com)
