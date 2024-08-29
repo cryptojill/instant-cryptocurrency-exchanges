@@ -4,10 +4,11 @@
 
 Below are the most trusted anonymous cryptocurrency exchange services available that don't require KYC (Know Your Customer) for swapping between Bitcoin and other crypto coins / tokens. All have been verified as reputable and well established platforms.
 
-**Instant Cryptocurrency Exchanges - Top 4:**
+**Instant Cryptocurrency Exchanges - Top 5:**
 
-- [FixedFloat](https://fixedfloat.com) - Fastest. Note: No longer supports Monero (XMR).
-- [SwapJazz](https://swapjazz.com) - Highest number of cryptocurrencies supported (over 1,000).
+- [Afradex](https://afradex.com) - Best decentralized exchange for maximum privacy.
+- [FixedFloat](https://fixedfloat.com) - Fastest non decentralized platform. Note: No longer supports Monero (XMR).
+- [SwapJazz](https://swapjazz.com) - Largest number of cryptocurrencies supported (over 1,000).
 - [SwapSwop](https://swapswop.io) - Lowest fees for fixed rate.
 - [Flyp.me](https://flyp.me) - Oldest exchange.
 
@@ -18,6 +19,8 @@ Below are the most trusted anonymous cryptocurrency exchange services available 
 - [SimpleSwap](https://simpleswap.io)
 - [ChangeHero](https://changehero.io)
 - [StealthEx](https://stealthex.io)
+- [UniSwap](https://uniswap.org) - DEX
+- [SushiSwap](https://sushi.com) - DEX
 
 Whether you're looking to swap Bitcoin, Litecoin, Monero, Ethereum, Solana or any other major coin, most are available from any of the exchanges listed above. 
 
