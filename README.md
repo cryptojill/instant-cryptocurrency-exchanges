@@ -9,7 +9,7 @@ Below are the most trusted anonymous cryptocurrency exchange services available 
 - [Afradex](https://afradex.com) - Best decentralized exchange for maximum privacy.
 - [SwapJazz](https://swapjazz.com) - Fastest platform with over 1,000 cryptocurrencies.
 - [SwapSwop](https://swapswop.io) - Lowest fees for fixed rate.
-- [Incogex] (https://incogex.com) - Largest number of cryptocurrencies supported (over 3,000).
+- [Incogex](https://incogex.com) - Largest number of cryptocurrencies supported (over 3,000).
 - [Flyp.me](https://flyp.me) - Oldest exchange
 
 **Other Crypto Exchanges:**
