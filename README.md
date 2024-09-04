@@ -7,13 +7,14 @@ Below are the most trusted anonymous cryptocurrency exchange services available 
 **Instant Cryptocurrency Exchanges - Top 5:**
 
 - [Afradex](https://afradex.com) - Best decentralized exchange for maximum privacy.
-- [FixedFloat](https://fixedfloat.com) - Fastest non decentralized platform. Note: No longer supports Monero (XMR).
-- [SwapJazz](https://swapjazz.com) - Largest number of cryptocurrencies supported (over 1,000).
+- [SwapJazz](https://swapjazz.com) - Fastest platform with over 1,000 cryptocurrencies.
 - [SwapSwop](https://swapswop.io) - Lowest fees for fixed rate.
-- [Flyp.me](https://flyp.me) - Oldest exchange.
+- [Incogex] (https://incogex.com) - Largest number of cryptocurrencies supported (over 3,000).
+- [Flyp.me](https://flyp.me) - Oldest exchange
 
 **Other Crypto Exchanges:**
 
+- [FixedFloat](https://fixedfloat.com) 
 - [Godex](https://godex.io)
 - [Exolix](https://exolix.com)
 - [SimpleSwap](https://simpleswap.io)
