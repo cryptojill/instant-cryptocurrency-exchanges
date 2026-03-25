@@ -22,6 +22,7 @@ Below are the most trusted anonymous cryptocurrency exchange services available 
 - [StealthEx](https://stealthex.io)
 - [UniSwap](https://uniswap.org) - DEX
 - [SushiSwap](https://sushi.com) - DEX
+- [BitcoinVN](https://bitcoinvn.io) - Non-custodial instant swaps with Lightning, Monero, and shielded ZEC support.
 
 Whether you're looking to swap Bitcoin, Litecoin, Monero, Ethereum, Solana or any other major coin, most are available from any of the exchanges listed above. 
 
