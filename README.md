@@ -20,6 +20,7 @@ Below are the most trusted anonymous cryptocurrency exchange services available 
 - [SimpleSwap](https://simpleswap.io)
 - [ChangeHero](https://changehero.io)
 - [StealthEx](https://stealthex.io)
+- [TrustSwap](https://trustswap.io) - Non-custodial instant swap, no KYC, 2000+ pairs including XMR and ZEC
 - [UniSwap](https://uniswap.org) - DEX
 - [SushiSwap](https://sushi.com) - DEX
 
