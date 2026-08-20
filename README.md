@@ -22,6 +22,8 @@ Below are the most trusted anonymous cryptocurrency exchange services available 
 - [StealthEx](https://stealthex.io)
 - [UniSwap](https://uniswap.org) - DEX
 - [SushiSwap](https://sushi.com) - DEX
+- [[NOT]KYC](https://notkyc.life) - Live-rate comparison across 17+ no-KYC exchanges with privacy/trust scores and no-KYC track records.
+
 
 Whether you're looking to swap Bitcoin, Litecoin, Monero, Ethereum, Solana or any other major coin, most are available from any of the exchanges listed above. 
 
